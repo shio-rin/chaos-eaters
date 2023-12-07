@@ -1,1 +1,0 @@
-it's unclear wether the .htaccess file will work due to lack of testing, but if you can figure out how to use it, that would be great! again, only works on github
