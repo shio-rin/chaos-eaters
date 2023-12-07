@@ -1,0 +1,1 @@
+while the version file DOES show up in the corner of the john pages, it's mostly useless. There is a more accurate version.txt file found in the directory /L1NK3D/versions/ that represents the version of the entire project. these files exist for mostly archiving purposes
