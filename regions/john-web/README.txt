@@ -1,1 +1,0 @@
-The entire john website! Keep in mind that most of these files were taken from the github site, (you might even be reading this from github right now!) so files that were made only for github (ex. github_files, htaccess) redirect to shio-rin.github.io/john-web, which need to be changed to upload to a different website.
