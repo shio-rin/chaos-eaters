@@ -1,0 +1,43 @@
+h1 {
+    font-weight: bold;
+    margin-left: 17%;
+    margin-right: 17%;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 2.55pt;
+    font-size: 17pt;
+    color: #141414;
+}
+h2 {
+    font-weight: normal;
+    margin-left: 17%;
+    margin-right: 17%;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 2.2pt;
+    font-size: 14pt;
+    color: #141414;
+}
+p {
+    margin-left: 17%;
+    text-align: center;
+    margin-right: 17%;
+    margin-top: 0px;
+    margin-bottom: 1.8pt;
+    font-size: 12pt;
+    color: #141414;
+}
+#searcharticles {
+    margin-top: 50px;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+#searchdropdown {
+    margin-top: 5px;
+    text-align: center;
+    margin-left: 0;
+}
