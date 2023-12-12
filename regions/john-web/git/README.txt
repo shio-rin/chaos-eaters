@@ -1,0 +1,1 @@
+These files are only used on the github version. to use on github, place move the files in the "contentx_" folder to the same directory as the content.githubx_ file with the corresponding number at the end.

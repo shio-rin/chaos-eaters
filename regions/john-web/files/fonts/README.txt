@@ -1,0 +1,1 @@
+fonts taken from google fonts, find copyright info in the folders with the font names. idk.
