@@ -1,0 +1,11 @@
+{ pkgs }: {
+  deps = [
+    pkgs.nodePackages.vscode-langservers-extracted
+    pkgs.nodePackages.typescript-language-server  
+  ];
+}
+
+
+
+
+# anyways this is just an archived file, remove the .txt if you want to actually use it but really idk why you would
