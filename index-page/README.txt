@@ -1,1 +1,2 @@
-the main page... thinking of making a mascot...
+basically just the main page 
+some files do nothing, WIP
