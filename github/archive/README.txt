@@ -1,1 +1,0 @@
-add .zip and extract. a file used to archive the previous john website, in case something bad happens
