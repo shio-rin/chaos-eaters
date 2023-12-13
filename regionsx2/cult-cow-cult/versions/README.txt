@@ -1,1 +1,0 @@
-version.txt is present in pretty much every region folder even though it isn't used for compatibility and future convenience 
