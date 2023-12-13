@@ -1,0 +1,37 @@
+11/30/23
+Minor changes to css .contrib formatting
+Corrected Bruce's editor status
+New section in the lore page
+12/1/23
+Minor changes to css
+12/3/23
+Changed width of a .bodydiv class
+Added new .contribtext class
+Changed formatting for contributors page
+12/4/23
+Created "rules.htm"
+Created "prophecy.htm"
+Updated "prophecy.htm"
+Added "|Safari|" and "|AppleWebKit|" to mobile detection js
+Replaced mobile detection
+Updated mobile detection
+Replaced mobile detection
+Restored previous mobile detection
+Added Aaditya to the editors list
+Changed Aaditya's status on the ban list
+Reformatted directories
+Deleted README.txt
+Many changes to formatting and things that are difficult to track due to the majority of files being changed
+Updated loading page (index.html)
+12/5/23
+Updated contributors list
+Updated examples
+Updated lore
+Added 404.md
+Minor changes and corrections
+Added new factions
+Added version number to directory.htm
+Removed version number from directory.htm
+Changed 404.md into 404.html
+Fixed an error in index.html and 404.html
+Added News section to index.htm
